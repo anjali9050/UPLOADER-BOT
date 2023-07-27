@@ -11,3 +11,6 @@ dnspython
 motor[srv]
 beautifulsoup4
 pyrogram==1.4.16
+lk21
+Flask==2.2.2
+gunicorn==20.1.0
